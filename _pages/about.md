@@ -26,7 +26,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Electrical and Computer Engineering at <a href='https://www.nyu.edu/'>New York University</a> since August 2024, advised by Prof. Sai Qian Zhang. I began my doctoral studies in August 2024. Prior to that, I received my B.S. from Peking University, where I was fortunate to be advised by Prof. Yufei Ma. I also had the pleasure of working as a research intern at the Computer Systems Laboratory at Cornell University, under the supervision of Prof. Zhiru Zhang.
+I am a Ph.D. student in Electrical and Computer Engineering at <a href='https://www.nyu.edu/'>New York University</a> since August 2024, advised by <a href='https://saiqianzhang.com/'>Prof. Sai Qian Zhang</a>. I began my doctoral studies in August 2024. Prior to that, I received my B.S. from <a href='https://english.pku.edu.cn/'>Peking University</a>, where I was fortunate to be advised by <a href='http://scholar.pku.edu.cn/yufei.ma'>Prof. Yufei Ma</a>. I also had the pleasure of working as a research intern at the Computer Systems Laboratory at Cornell University, under the supervision of <a href='https://zhang.ece.cornell.edu/'>Prof. Zhiru Zhang</a>.
 
 My research interests lie in machine learning, computer architecture, efficient AI, software/hardware co-design, and virtual reality (VR/AR).
 
