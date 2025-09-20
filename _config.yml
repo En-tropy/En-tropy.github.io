@@ -196,7 +196,6 @@ exclude:
   - _includes/related_posts.liquid
   - _layouts/archive.liquid
   - _plugins/external-posts.rb
-  - _news/
   - _projects/
   - _includes/repository/
   - _includes/cv/
