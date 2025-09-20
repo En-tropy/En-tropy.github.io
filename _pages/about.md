@@ -25,6 +25,7 @@ social: true # includes social icons at the bottom of the page
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
+
 I am a Ph.D. student in Electrical and Computer Engineering at <a href='https://www.nyu.edu/'>New York University</a>, advised by Prof. Sai Qian Zhang. Prior to that, I received my B.S. from Peking University, where I was fortunate to be advised by Prof. Yufei Ma. I also had the pleasure of working as a research intern at the Computer Systems Laboratory at Cornell University, under the supervision of Prof. Zhiru Zhang.
 
 My research interests lie in machine learning, computer architecture, efficient AI, software/hardware co-design, and virtual reality (VR/AR).
