@@ -43,8 +43,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-first-first-author-paper-has-been-accepted-to-isca-2025-tada",
-          title: 'My first first-author paper has been accepted to ISCA 2025! :tada:',
+            },},{id: "news-my-first-first-author-paper-has-been-accepted-to-isca-2025-tada-i-m-incredibly-honored-to-share-this-milestone-in-my-research-journey",
+          title: 'My first first-author paper has been accepted to ISCA 2025! :tada: I’m incredibly...',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-to-ics-2025",
+          title: 'One paper has been accepted to ICS 2025!',
           description: "",
           section: "News",},{
         id: 'social-email',
