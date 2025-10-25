@@ -49,7 +49,7 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-has-been-accepted-to-ics-2025",
           title: 'One paper has been accepted to ICS 2025!',
           description: "",
-          section: "News",},{id: "news-my-co-first-author-paper-has-been-accepted-to-neurips-2025-as-a-spotlight-acceptance-rate-3-2-tada",
+          section: "News",},{id: "news-my-co-first-author-paper-has-been-accepted-to-neurips-2025-as-a-spotlight-acceptance-rate-3-5-tada",
           title: 'My co-first-author paper has been accepted to NeurIPS 2025 as a Spotlight (acceptance...',
           description: "",
           section: "News",},{id: "news-one-paper-has-been-accepted-to-asplos-2026",
