@@ -43,14 +43,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-first-first-author-paper-has-been-accepted-to-isca-2025-tada-i-m-incredibly-honored-to-share-this-milestone-in-my-research-journey",
-          title: 'My first first-author paper has been accepted to ISCA 2025! :tada: I’m incredibly...',
+            },},{id: "news-my-first-first-author-paper-has-been-accepted-to-isca-2025-tada-huge-thanks-to-all-my-amazing-collaborators-i-m-incredibly-honored-to-share-this-milestone-in-my-research-journey",
+          title: 'My first first-author paper has been accepted to ISCA 2025! :tada: Huge thanks...',
           description: "",
           section: "News",},{id: "news-one-paper-has-been-accepted-to-ics-2025",
           title: 'One paper has been accepted to ICS 2025!',
           description: "",
           section: "News",},{id: "news-my-co-first-author-paper-has-been-accepted-to-neurips-2025-as-a-spotlight-acceptance-rate-3-2-tada",
           title: 'My co-first-author paper has been accepted to NeurIPS 2025 as a Spotlight (acceptance...',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-to-asplos-2026",
+          title: 'One paper has been accepted to ASPLOS 2026!',
           description: "",
           section: "News",},{
         id: 'social-email',
