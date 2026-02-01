@@ -55,6 +55,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-has-been-accepted-to-asplos-2026",
           title: 'One paper has been accepted to ASPLOS 2026!',
           description: "",
+          section: "News",},{id: "news-one-first-author-paper-has-been-accepted-to-iclr-2026",
+          title: 'One first-author paper has been accepted to ICLR 2026!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
