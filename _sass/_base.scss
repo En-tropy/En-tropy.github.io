@@ -241,6 +241,13 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.cn-name {
+  display: inline-block;
+  margin-bottom: 0.25rem;
+  font-weight: 600;
+  color: var(--global-text-color-light);
+}
+
 // Navbar customization
 
 .navbar {
