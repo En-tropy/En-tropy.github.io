@@ -28,7 +28,7 @@ announcements:
 
 I am a Ph.D. student in Electrical and Computer Engineering at <a href='https://www.nyu.edu/'>New York University</a> since August 2024, advised by <a href='https://saiqianzhang.com/'>Prof. Sai Qian Zhang</a>. I began my doctoral studies in August 2024. Prior to that, I received my B.S. from <a href='https://english.pku.edu.cn/'>Peking University</a>, where I was fortunate to be advised by <a href='http://scholar.pku.edu.cn/yufei.ma'>Prof. Yufei Ma</a>. I also had the pleasure of working as a research intern at the Computer Systems Laboratory at Cornell University, under the supervision of <a href='https://zhang.ece.cornell.edu/'>Prof. Zhiru Zhang</a>.
 
-My research interests lie in machine learning, computer architecture, efficient AI, software/hardware co-design, and virtual reality (VR/AR).
+My research interests lie in Machine Learning, Efficient AI/ML, Computer Architecture, Software/Hardware Co-design, and Virtual/Augmented Reality (VR/AR).
 
 <!-- <a href='https://saiqianzhang.com/'>  Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
