@@ -61,6 +61,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-first-author-paper-echo-has-been-accepted-to-isca-2026",
           title: 'One first-author paper ECHO has been accepted to ISCA 2026!',
           description: "",
+          section: "News",},{id: "news-i-m-excited-to-join-meta-reality-labs-as-a-research-scientist-intern-this-summer-as-my-first-internship",
+          title: 'I’m excited to join Meta Reality Labs as a Research Scientist Intern this...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
