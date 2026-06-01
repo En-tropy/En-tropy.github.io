@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm excited to join Meta Reality Labs as a Research Scientist Intern this summer as my first internship!
+I'm excited to join **Meta Reality Labs** as a Research Scientist Intern this summer as my first internship!
