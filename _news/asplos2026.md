@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted to **ASPLOS** 2026!
+One paper has been accepted to **ASPLOS 2026**!
