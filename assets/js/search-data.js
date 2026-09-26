@@ -64,6 +64,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-excited-to-join-meta-reality-labs-as-a-research-scientist-intern-this-summer-as-my-first-internship",
           title: 'I’m excited to join Meta Reality Labs as a Research Scientist Intern this...',
           description: "",
+          section: "News",},{id: "news-one-first-authored-paper-lsvd-and-one-co-authored-paper-clusquant-have-been-accepted-to-neurips-2026-tada",
+          title: 'One first-authored paper (LSVD) and one co-authored paper (ClusQuant) have been accepted to...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
